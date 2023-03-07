@@ -3,7 +3,7 @@ layout: default
 ---
 <h2 align="center"> Student Liberation Front </h2>
 
-Fill out the form below to register interest
+<p align="center"> Fill out the form below to register interest </p>
 
 <form method="post" action="https://forms.un-static.com/forms/e54ad8b03000d217dd0877fcd7c039f8d971fb4f">
   <div class="form-group row">
