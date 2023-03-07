@@ -20,9 +20,9 @@ layout: default
     </div>
   </div>
   <div class="form-group row">
-    <label for="inputDegree" class="col-sm-2 col-form-label">Degree</label>
+    <label for="inputDegree" style="color: Green" class="col-sm-2 col-form-label">Degree</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="inputDegree" placeholder="Please enter your Degree">
+      <input type="text" class="form-control" id="inputDegree" placeholder="Please enter your Degree" style="background-color: #494949">
     </div>
   </div>
   <div class="form-group row">
