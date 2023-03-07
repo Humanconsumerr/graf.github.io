@@ -6,14 +6,14 @@ layout: default
 <p align="center"> Fill out the form below to register interest </p>
 
 <form method="post" action="https://forms.un-static.com/forms/e54ad8b03000d217dd0877fcd7c039f8d971fb4f">
-  <div class="form-group row">
-    <label for="inputName" align="center" class="col-sm-2 col-form-label">Name</label>
+  <div align="center" class="form-group row">
+    <label for="inputName" style="color: Green" class="col-sm-2 col-form-label">Name</label>
     <div class="col-sm-10">
       <input type="text" class="form-control" id="inputName" placeholder="Please enter your name" style="background-color: #494949">
     </div>
   </div>
   <div class="form-group row">
-    <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
+    <label for="inputEmail" style="color: Green" class="col-sm-2 col-form-label">Email</label>
     <div class="input-group col-sm-10">
       <div class="input-group-prepend"><i class="input-group-text fa fa-envelope"></i></div>
       <input type="email" class="form-control" id="inputEmail" placeholder="Email" style="background-color: #494949">
@@ -26,7 +26,7 @@ layout: default
     </div>
   </div>
   <div class="form-group row">
-    <label for="inputMessage" class="col-sm-2 col-form-label">Message</label>
+    <label for="inputMessage" style="color: Green" class="col-sm-2 col-form-label">Message</label>
     <div class="col-sm-10">
       <textarea name="inputMessage" cols="40" rows="8" class="form-control" style="background-color: #494949"></textarea>
     </div>
