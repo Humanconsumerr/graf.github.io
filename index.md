@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h2 align="center"> Student Liberation Front </h2>
+<h2 align="center">  Liberation Front </h2>
 
 <p align="center"> Fill out the form below to register interest </p>
 
@@ -20,8 +20,8 @@ layout: default
     </div>
   </div>
   <div align="center" class="form-group row">
-    <label for="inputDegree" style="color: Green" class="col-md-5 col-form-label">Degree</label>
-    <div class="col-sm-10">
+    <label for="inputDegree" style="color: Green" class="col-sm-2 col-form-label">Degree</label>
+    <div class="col-md-10">
       <input type="text" class="form-control" id="inputDegree" placeholder="Please enter your Degree" style="background-color: #494949">
     </div>
   </div>
