@@ -9,14 +9,14 @@ Fill out the form below to register interest
   <div class="form-group row">
     <label for="inputName" class="col-sm-2 col-form-label">Name</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="inputName" placeholder="Please enter your name">
+      <input type="text" class="form-control" id="inputName" placeholder="Please enter your name" style="background-color: #494949">
     </div>
   </div>
   <div class="form-group row">
     <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
     <div class="input-group col-sm-10">
       <div class="input-group-prepend"><i class="input-group-text fa fa-envelope"></i></div>
-      <input type="email" class="form-control" id="inputEmail" placeholder="Email">
+      <input type="email" class="form-control" id="inputEmail" placeholder="Email" style="background-color: #494949">
     </div>
   </div>
   <div class="form-group row">
