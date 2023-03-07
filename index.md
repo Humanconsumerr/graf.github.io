@@ -5,12 +5,8 @@ Student Liberation Front
 
 Fill out the form below to register interest
 
-<button name="button" onclick="http://www.google.com">Click me</button>
-
-
-  
 <form method="post" action="https://forms.un-static.com/forms/e54ad8b03000d217dd0877fcd7c039f8d971fb4f">
-  <div class="form-group row">
+  <div class="form-group row" class="text-center">
     <label for="inputName" class="col-sm-2 col-form-label">Name</label>
     <div class="col-sm-10">
       <input type="text" class="form-control" id="inputName" placeholder="Please enter your name">
