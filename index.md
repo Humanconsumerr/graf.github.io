@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1> Student Liberation Front </h1>
+<h2 align="center"> Student Liberation Front </h2>
 
 Fill out the form below to register interest
 
