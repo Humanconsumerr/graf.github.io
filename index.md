@@ -9,8 +9,7 @@ layout: default
   <div class="form-group row">
     <label for="inputName" class="col-sm-2 col-form-label">Name</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="inputName" placeholder="Please enter your name">
-      <textarea name="inputName" class="form-control" style="background-color: #494949"></textarea>
+      <input type="text" class="form-control" id="inputName" style="background-color: #494949" placeholder="Please enter your name">
     </div>
   </div>
   <div class="form-group row">
@@ -18,14 +17,12 @@ layout: default
     <div class="input-group col-sm-10">
       <div class="input-group-prepend"><i class="input-group-text fa fa-envelope"></i></div>
       <input type="email" class="form-control" id="inputEmail" placeholder="Email">
-      <textarea name="inputEmail" class="form-control" style="background-color: #494949"></textarea>
     </div>
   </div>
   <div class="form-group row">
     <label for="inputDegree" class="col-sm-2 col-form-label">Degree</label>
     <div class="col-sm-10">
       <input type="text" class="form-control" id="inputDegree" placeholder="Please enter your Degree">
-      <textarea name="inputDegree" class="form-control" style="background-color: #494949"></textarea>
     </div>
   </div>
   <div class="form-group row">
