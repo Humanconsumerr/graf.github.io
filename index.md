@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-#Student Liberation Front
+<h1> Student Liberation Front </h1>
 
-##Fill out the form below to register interest
+Fill out the form below to register interest
 
 <form method="post" action="https://forms.un-static.com/forms/e54ad8b03000d217dd0877fcd7c039f8d971fb4f">
   <div class="form-group row">
