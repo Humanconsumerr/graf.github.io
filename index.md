@@ -20,13 +20,13 @@ layout: default
     </div>
   </div>
   <div align="center" class="form-group row">
-    <label for="inputDegree" style="color: Green" class="col-sm-2 col-form-label">Degree</label>
+    <label for="inputDegree" style="color: Green" class="col-md-2 col-form-label">Degree</label>
     <div class="col-sm-10">
       <input type="text" class="form-control" id="inputDegree" placeholder="Please enter your Degree" style="background-color: #494949">
     </div>
   </div>
   <div align="center" class="form-group row">
-    <label for="inputMessage" style="color: Green" class="col-sm-2 col-form-label">Message</label>
+    <label for="inputMessage" style="color: Green" class="col-sm-2 col-form-label">Why are you interested</label>
     <div class="col-sm-10">
       <textarea name="inputMessage" cols="40" rows="8" class="form-control" style="background-color: #494949"></textarea>
     </div>
