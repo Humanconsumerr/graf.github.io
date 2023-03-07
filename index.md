@@ -7,48 +7,34 @@ Fill out the form below to register interest
 
 <button name="button" onclick="http://www.google.com">Click me</button>
 
-<html>
-<head>
-  <title>SLF</title>
-</head>
-<body>
-  <h1> Student Liberation Front </h1>
+
+  
 <form method="post" action="https://forms.un-static.com/forms/e54ad8b03000d217dd0877fcd7c039f8d971fb4f">
- <div allign="center">
   <div class="form-group row">
-    <label for="name" class="col-4 col-form-label">Name</label>
-    <div class="col-8">
-      <div class="input-group">
-        <div class="input-group-addon">
-          <i class="fa fa-user"></i>
-        </div>
-        <input id="name" name="name" placeholder="Please enter your name" type="text" required="required" class="form-control" align="center">
-      </div>
-    </div>
-  </div>
-  </div>
-  <div class="form-group row">
-    <label for="email" class="col-4 col-form-label">E-mail address</label>
-    <div class="col-8">
-      <div class="input-group">
-        <div class="input-group-addon">
-          <i class="fa fa-envelope"></i>
-        </div>
-        <input id="email" name="email" placeholder="Your e-mail address" type="text" required="required" class="form-control">
-      </div>
+    <label for="inputName" class="col-sm-2 col-form-label">Name</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" id="inputName" placeholder="Please enter your name">
     </div>
   </div>
   <div class="form-group row">
-    <label for="message" class="col-4 col-form-label">What interested you about our group?</label>
-    <div class="col-8">
-      <textarea id="message" name="message" cols="40" rows="10" required="required" class="form-control"></textarea>
+    <label for="inputEmail" class="col-sm-2 col-form-label">Email</label>
+    <div class="input-group col-sm-10">
+      <div class="input-group-prepend"><i class="input-group-text fa fa-envelope"></i></div>
+      <input type="email" class="form-control" id="inputEmail" placeholder="Email">
     </div>
   </div>
   <div class="form-group row">
-    <div class="offset-4 col-8">
-      <button name="submit" type="submit" class="btn btn-primary">Send</button>
+    <label for="inputMessage" class="col-sm-2 col-form-label">Message</label>
+    <div class="col-sm-10">
+      <textarea name="inputMessage" cols="40" rows="8" class="form-control"></textarea>
     </div>
+  </div>
+  <div class="form-group row">
+    <div class="col-sm-10">
+      <button type="submit" class="btn btn-primary">Send</button>
+    </div>
+  </div>
+  <div class="text-center">
+    <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
   </div>
 </form>
-</body>
-</html>
