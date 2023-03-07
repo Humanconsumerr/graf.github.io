@@ -9,7 +9,7 @@ layout: default
   <div class="form-group row">
     <label for="inputName" class="col-sm-2 col-form-label">Name</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="inputName" style="background-color: #494949" placeholder="Please enter your name">
+      <input type="text" class="form-control" id="inputName" placeholder="Please enter your name">
     </div>
   </div>
   <div class="form-group row">
