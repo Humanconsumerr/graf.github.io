@@ -1,5 +1,5 @@
 ---
-layout:default
+layout: default
 ---
 <h2 align="center">  Student Liberation Front </h2>
 
